@@ -20,7 +20,7 @@
 ### 💼 [1. Work Experience](./work_Experience)
 > 실무 환경에서 컴퓨터 비전 인턴으로 근무하며 마주한 문제들과 해결 과정을 기록했습니다.
 
-- **Computer Vision Intern 업무 회고** ([📄 상세 보기](./work_Experience/Computer_Vision_Intern.md))
+- **Computer Vision Intern 업무 회고** ([📄 상세 보기](./Work_Experience/Computer_Vision_Intern.md))
   - **데이터 파이프라인**: OpenCV를 활용한 이미지 전처리(Resize, Crop, Noise 제거) 및 Python 크롤링 자동화
   - **모델 최적화**: 기존 Face Recognition 모델의 입출력 구조 분석 및 하이퍼파라미터 설정 변경
   - **실험 및 성능 개선**: CNN 기반 이미지 인식 모델의 병목 구간 파악 및 Learning Rate, Batch Size 등 튜닝 실험 진행
